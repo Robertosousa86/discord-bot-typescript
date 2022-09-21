@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot-typescript",
+  "version": "1.0.0",
+  "description": "Um chatbot para a plataforma Discord utilizando Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robertosousa86/discord-bot-typescript.git"
+  },
+  "keywords": [
+    "Discord",
+    "chatbot",
+    "Typescript",
+    "NodeJS"
+  ],
+  "author": "Roberto Sousa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robertosousa86/discord-bot-typescript/issues"
+  },
+  "homepage": "https://github.com/Robertosousa86/discord-bot-typescript#readme"
+}
